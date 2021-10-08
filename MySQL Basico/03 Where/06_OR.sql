@@ -3,7 +3,7 @@
 -- OR: operador MySQL para combinar expresiones booleanas.
 
 /*
-SELECT DISTINCT
+SELECT 
     select_list
 FROM
     table_name
