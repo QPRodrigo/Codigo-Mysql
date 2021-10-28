@@ -20,6 +20,8 @@ VALUES
 
 */
 
+DROP TABLE IF EXISTS tasks;
+
 ### INSERT Ejemplos de MySQL
 CREATE TABLE IF NOT EXISTS tasks (
     task_id INT AUTO_INCREMENT,
@@ -55,7 +57,7 @@ VALUES('Insert date into table','2018-01-09','2018-09-15');
 
 -- Es posible utilizar expresiones en la VALUEScláusula.
 INSERT INTO tasks(title,start_date,due_date)
-VALUES('Use current date for the task',CURRENT_DATE(),CURRENT_DATE())
+VALUES('Use current date for the task',CURRENT_DATE(),CURRENT_DATE());
 
 ### MySQL INSERT
 
