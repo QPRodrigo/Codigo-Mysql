@@ -1,5 +1,7 @@
 /* Transacción MySQL */
 
+-- https://www.mysqltutorial.org/mysql-transaction.aspx
+
 ### Declaraciones de transacciones de MySQL
 
 /*
