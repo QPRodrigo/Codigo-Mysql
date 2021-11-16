@@ -1,5 +1,7 @@
 /* Selecting a MySQL DATABASE */
 
+-- https://www.mysqltutorial.org/mysql-select-database/
+
 -- Mostrarle cómo usar la instrucción USE para configurar la base de datos actual.
 
 ### Seleccionar una base de datos MySQL usando la herramienta cliente mysql
