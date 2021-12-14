@@ -2,6 +2,8 @@
 
 -- MySQL DATEes uno de los cinco tipos de datos temporales que se utilizan para administrar valores de fecha. MySQL usa yyyy-mm-dd formato para almacenar un valor de fecha. Este formato es fijo y no es posible cambiarlo.
 
+-- Por ejemplo, es posible que prefiera utilizar el mm-dd-yyyyformato, pero no puede hacerlo. En su lugar, sigue el formato de fecha estándar y usa la  DATE_FORMATfunción para formatear la fecha de la manera que desee.
+
 ### Valores de fecha de MySQL con años de dos dígitos
 -- Primero, cree una tabla llamada personas con una columna de fecha de nacimiento con DATEel tipo de datos.
 CREATE TABLE people (
