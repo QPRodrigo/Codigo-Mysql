@@ -1,8 +1,6 @@
 /* Character Set */
 
-/*
-Un conjunto de caracteres MySQL es un conjunto de caracteres que son legales en una cadena. Por ejemplo, tenemos un alfabeto con las letras de a  a z. Asignamos a cada letra un número, por ejemplo,   a = 1,  b = 2etc. La letra  a  es un símbolo, y el número 1  que se asocia con la letra a  es la codificación. La combinación de todas las letras de la A a la Z y sus codificaciones correspondientes es un conjunto de caracteres.
-*/
+-- Un conjunto de caracteres MySQL es un conjunto de caracteres que son legales en una cadena. Por ejemplo, tenemos un alfabeto con las letras de a  a z. Asignamos a cada letra un número, por ejemplo,   a = 1,  b = 2etc. La letra  a  es un símbolo, y el número 1  que se asocia con la letra a  es la codificación. La combinación de todas las letras de la A a la Z y sus codificaciones correspondientes es un conjunto de caracteres.
 
 SHOW CHARACTER SET;
 
