@@ -13,12 +13,13 @@ SELECT * FROM customers;
 -- DELIMITER //
 
 -- Una vez que cambie el delimitador, puede usar el nuevo delimitador para finalizar una declaración de la siguiente manera:
-
+/*
 DELIMITER //
 
 SELECT * FROM customers //
 
 SELECT * FROM products //
+*/
 
 -- Para cambiar el delimitador al predeterminado, que es un punto y coma ( ;), utilice la siguiente declaración:
 -- DELIMITER ;
