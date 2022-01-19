@@ -35,10 +35,10 @@ DELIMITER ;
 
 CALL RepeatDemo();
 
+
+-- Aquí está el resultado:
+
 /*
-Aquí está el resultado:
-
-
 +--------------------+
 | result             |
 +--------------------+
