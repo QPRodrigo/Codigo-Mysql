@@ -167,6 +167,7 @@ END$$
 DELIMITER ;
 
 -- Aquí está la sintaxis de la instrucción:DECLARE CONDITION
+
 /*
 DECLARE condition_name CONDITION FOR condition_value;
 */
